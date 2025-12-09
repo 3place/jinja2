@@ -1,0 +1,4 @@
+
+```html
+<img src="project/build/img/profitable.png" style="width:10rem;height: 10rem;position:absolute;right: -20px;top: -20px;">
+```
